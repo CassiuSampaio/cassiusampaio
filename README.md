@@ -12,13 +12,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiusampaio&layout=compact)
 
 ![Cassius Sampaio GitHub stats](https://github-readme-stats.vercel.app/api?username=cassiusampaio&theme=chartreuse-dark&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiusampaio&layout=donut-vertical)](https://github.com/cassiusampaio/github-readme-stats)
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cassiusampaio)](https://github.com/cassiusampaio/github-readme-stats)
-
-
-
-
-
-
